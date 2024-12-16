@@ -1,0 +1,135 @@
+.section-number-trois {
+    background: url(../images/pexels-rodnae-productions-8123815\ 1.jpg);
+    background-size: cover;
+    height: 700px;
+}
+.section-content {
+    text-decoration: none;
+    background-color:  #00334D;
+    position: relative;
+    width: 766px;
+    height: 350px;
+    top: 400px;
+    left: 190px;
+   
+
+}
+.section-content-1 {
+    text-align: center;
+    padding: 50px;
+
+}
+.section-content-1 h2 {
+    padding-left: 0;
+    color: #FFFFFF ;
+    font-family: "Cabinet Grotesk";
+    font-size: 30px;
+    font-weight: 800;
+    text-underline-position: "from-font";
+}
+.section-content-1 p {
+    font-family: "Cabinet Grotesk";
+    font-size: 16px;
+    font-weight: 400;
+    color: #FFFFFF;
+    text-underline-position: "from-font";
+    text-decoration-skip-ink: none;
+}
+
+.actualité{
+    margin: 70px;
+
+}
+
+.actualité h1 {
+
+    color:  #00334D ;
+    font-family: "Cabinet Grotesk";
+    font-size: 30px;
+    font-weight: 800;
+    text-underline-position: "from-font";
+}
+
+.destination {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-resver {
+    background: #F5F5F5;
+   
+
+
+
+}
+.maintenant {
+    display: flex;
+    gap: 100px;
+    margin: 60px;
+}
+.resver-maintenant {
+    background-color: #FFFFFF;
+    width: 340px;
+    height: 348px;
+    border: 1px solid #6ECFFF1F
+}
+.resver-maintenant p {
+    font-family: "Cabinet Grotesk";
+    font-size: 16px;
+    font-weight: 800;
+    text-underline-position: "from-font";
+    color: #005680;
+    margin-bottom: 35px;
+}
+
+.resver-maintenant img {
+    margin-bottom: 25px;
+}
+
+.resver-text h1 {
+    margin: 60px;
+    color:  #00334D ;
+    font-family: "Cabinet Grotesk";
+    font-size: 30px;
+    font-weight: 800;
+    text-underline-position: "from-font";
+    
+}
+.miness {
+   width: 338px;
+    height: 199px;
+}
+
+
+.button  {
+   text-align: center;
+}
+
+
+.somess{
+    display: flex;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 50px;
+    align-items: center;
+    margin: 60px;
+ 
+}
+
+.mm {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 20px; 
+    justify-items: center; 
+    align-items: center; 
+}
+
+.section6 h2 {
+    margin: 60px;
+    color:  #00334D ;
+    font-family: "Cabinet Grotesk";
+    font-size: 30px;
+    font-weight: 800;
+    text-underline-position: "from-font";
+
+}
+

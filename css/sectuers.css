@@ -1,0 +1,32 @@
+.Secteurs {
+    background: url(../images/background.png) no-repeat;
+    height: 710px; 
+}
+
+.secteurs-text {
+    text-align: center;
+}
+.secteurs-text-image img{
+   padding-top: 45px;
+}
+
+.destination-image {
+  padding-left: 80px;
+}
+
+.destination{
+    display: flex;
+    gap: 60px;
+}
+
+.sommes {
+    display: flex;
+    gap: 60px;
+  
+    
+}
+.destinations img {
+    margin-bottom: 35px;
+}
+
+
